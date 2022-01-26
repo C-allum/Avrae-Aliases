@@ -1987,4 +1987,52 @@
     "name": "Zephyr Strike",
     "level": 1
   }
+  {
+    "name": "Silvery Barbs",
+    "level": 1
+  }
+  {
+    "name": "Borrowed Knowledge",
+    "level": 2
+  }
+  {
+    "name": "Kinetic Jaunt",
+    "level": 2
+  }
+  {
+    "name": "Vortex Warp",
+    "level": 2
+  }
+  {
+    "name": "Wither and Bloom,
+    "level": 2
+  }
+  {
+    "name": "Nathair’s Mischief",
+    "level": 2
+  }
+  {
+    "name": "Rime’s Binding Ice",
+    "level": 2
+  }
+  {
+    "name": "Ashardalon’s Stride",
+    "level": 3
+  }
+  {
+    "name": "Raulothim’s Psychic Lance,
+    "level": 4
+  }
+  {
+    "name": "Summon Draconic Spirit",
+    "level": 5
+  }
+  {
+    "name": "Fizban’s Platinum Shield",
+    "level": 6
+  }
+  {
+    "name": "Draconic Transformation",
+    "level": 7
+  }  
 ]
